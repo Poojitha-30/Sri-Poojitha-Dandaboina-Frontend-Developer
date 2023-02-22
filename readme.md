@@ -1,6 +1,6 @@
-# SpaceX Capsules Showcase
+# PROJECT NAME
 
-This project is built using React to showcase capsules data from the SpaceX API. The tech stack used includes Tailwind CSS, Jest, React Icons, and PHP for the backend.
+SPACEX CAPSULES REACT APP
 
 ## Technologies Used
 
